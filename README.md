@@ -19,11 +19,16 @@ It also performs **web scraping** to fetch data from websites and returns result
 - ⚡ Fast & accurate predictions using ML
 - 📊 Perfect for reviews, feedback, blogs, or social media text
 ## 📸 Screenshots
-![Home Page](screenshots/home.png)
-![Results Page](screenshots/hh.png)
-![About us  Page](screenshots/about.png)
 
----
+### 🏠 Home Page
+![Home Page](Screenshots/home.png)
+
+### 📊 Results Page
+![Results Page](Screenshots/hh.png)
+
+### ℹ️ About Us Page
+![About Us Page](Screenshots/about.png)
+
 
 ### 7. **Usage**  
 ```markdown
